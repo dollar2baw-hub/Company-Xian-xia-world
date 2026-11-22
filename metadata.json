@@ -1,0 +1,6 @@
+{
+  "name": "Tu Tiên Công Nghiệp - Tiên Môn Sản Nghiệp",
+  "description": "Trò chơi tu tiên công nghiệp quản lý tài nguyên, buôn bán vật phẩm, vận hành xưởng Luyện Khí, Luyện Đan, Luyện Bảo, Khoáng Mỏ và Dược Điền với phong cách đồ họa pixel độc đáo.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
